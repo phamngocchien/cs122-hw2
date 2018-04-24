@@ -1,7 +1,7 @@
 # cs122-hw2
 
 ### Bài 1: Lớp PhanSo có các thuộc tính riêng gồm: tuSo, mauSo,
-Hãy xây dựng các toán tử tạo lập : ***PhanSo(), PhanSo(int tu, int mau)***
+Hãy xây dựng các toán tử tạo lập : ***PhanSo(), PhanSo(int tu), PhanSo(int tu, int mau)***
 
 Xây dựng các phương thức:
 
