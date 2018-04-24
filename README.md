@@ -1,7 +1,7 @@
 # cs122-hw2
 
 ### Bài 1: Lớp PhanSo có các thuộc tính riêng gồm: tuSo, mauSo,
-Hãy xây dựng các toán tử tạo lập : ***PhanSo(), PhanSo(int tu), PhanSo(int tu, int mau)***
+Hãy xây dựng các cấu tử : ***PhanSo(), PhanSo(int tu), PhanSo(int tu, int mau)***
 
 Xây dựng các phương thức:
 
@@ -14,7 +14,7 @@ Cài đặt chương trình thực hiện: Nhập vào hai phân số A và B, s
 
 ### Bài 2: Hãy xây dựng lớp DaThuc có các thuộc tính riêng là bậc của đa thức, mảng các số nguyên chứa các hệ số của đa thức cùng với các phương thức:
 
-- Các toán tử tạo lập
+- Các cấu tử
 - Phép cộng, trừ, nhân, chia đa thức
 - In ra màn hình một đa thức bao gồm bậc và giá trị các hệ số
 
@@ -24,7 +24,7 @@ Số dòng, số cột của ma trận
 
 Một mảng hai chiều để lưu trữ các phần tử của ma trận
 
-Hãy xây dựng các hàm tạo : ***MaTran(), maTran(int n, int m);*** (Toán tử tạo lập thứ hai để tạo ra ma trận có n dòng và m cột)
+Hãy xây dựng các cấu tử : ***MaTran(), maTran(int n, int m);*** (Cấu tử thứ hai để tạo ra ma trận có n dòng và m cột)
 
 Xây dựng các phương thức:
 
